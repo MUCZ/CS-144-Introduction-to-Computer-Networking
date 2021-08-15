@@ -6,8 +6,9 @@
 - 课程官网（2020） [CS 144: Introduction to Computer Networking](https://cs144.github.io/)
 - 课程官网（2019） [CS 144: Introduction to Computer Networking (gitee.io)](https://kangyupl.gitee.io/cs144.github.io/)
 - 书籍官网 [Jim Kurose homepage (umass.edu)](http://gaia.cs.umass.edu/kurose_ross/index.html)
-- 书籍配套**动画**、Labs、PowerPoints [Student Resources (pearsoned.com)](https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/-/14198702/index.html)
-- 书籍作者视频教材 [《计算机网络，自顶向下方法》配套课程，作者亲授_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1mb4y1d7K7/?spm_id_from=333.788.recommend_more_video.1)
+- ⭐书籍配套动画演示、Labs、PowerPoints [Student Resources (pearsoned.com)](https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/-/14198702/index.html)
+- ⭐书籍配套在线习题（有答案） [Interactive Problems, Computer Networking: A Top Down Approach (umass.edu)](http://gaia.cs.umass.edu/kurose_ross/interactive/index.php)
+- 书籍配套视频 [《计算机网络，自顶向下方法》配套课程，作者亲授_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1mb4y1d7K7/?spm_id_from=333.788.recommend_more_video.1)
 
 博客
 
